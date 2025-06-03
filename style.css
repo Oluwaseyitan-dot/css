@@ -1,0 +1,14 @@
+body{
+    background-color:plum;
+font-family: cursive;
+font-size: medium;
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.image-container{
+    text-align: left;
+    margin-top: 20px;
+}
